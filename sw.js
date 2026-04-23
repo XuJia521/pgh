@@ -1,5 +1,5 @@
 // Service Worker - 离线缓存
-const CACHE_NAME = 'xujia-legal-tools-v1';
+const CACHE_NAME = 'pgh-legal-tools-v1';
 const ASSETS = [
   './',
   './index.html',
