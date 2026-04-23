@@ -1,9 +1,9 @@
 {
-  "name": "徐嘉 · 法律工具集",
+  "name": "彭高红 · 法律工具集",
   "short_name": "法律工具",
-  "description": "徐嘉律师的常用法律计算与辅助工具集合",
-  "start_url": "/",
-  "scope": "/",
+  "description": "彭高红律师的常用法律计算与辅助工具集合",
+  "start_url": "/pgh",
+  "scope": "/pgh",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f5efe0",
